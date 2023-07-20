@@ -1,2 +1,6 @@
 my phone number is 029883655
+<<<<<<< HEAD
 Sub bitch!
+=======
+Hello world!
+>>>>>>> 80f6859e13fbccfc7b202535264436fe2f128576
